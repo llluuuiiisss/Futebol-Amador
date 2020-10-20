@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3af58d40-713d-4cb1-a7ef-6276fa594c3e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/expulsarJogador2/action.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3selecionarTorneio/selecionarTorneio.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4posicoesJogaCriar/posicoesJogaCriar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="36" column="10" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="36" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4posicoesJogaCriar/action.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="257" column="64" selection-start-line="257" selection-start-column="64" selection-end-line="257" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4posicoesJoga/posicoesJoga.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-124">
+              <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4posicoesJoga/action.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="266" column="20" lean-forward="true" selection-start-line="266" selection-start-column="20" selection-end-line="266" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3selecionarEquipaInscrever/selecionarEquipaInscrever.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="58" column="35" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tabelaClassificaçaoOfline/tabelaClassificaçao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3247">
+              <caret line="191" column="24" selection-start-line="191" selection-start-column="24" selection-end-line="191" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/torneioOpcoes/torneioOpcoes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/expulsarJogador/expulsarJogador.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1156">
+              <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$torneio</find>
+      <find>$_SESSION</find>
+      <find>equipa_</find>
+      <find>echo</find>
+      <find>$nome_equipa</find>
+      <find>$arrayteams</find>
+      <find>ver</find>
+      <find>update</find>
+      <find>-1</find>
+      <find>torneio ja</find>
+      <find>$username</find>
+      <find>$to</find>
+      <find>backbu</find>
+      <find>tit</find>
+      <find>button3</find>
+      <find>backButton</find>
+      <find>tourn</find>
+      <find>tournments</find>
+      <find>bodycon</find>
+      <find>bodyco</find>
+      <find>dropdownJog</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/atribuirResultadosAdmin/atribuirResultados.php" />
+        <option value="$PROJECT_DIR$/3proximosJogos/proximosJogos.php" />
+        <option value="$PROJECT_DIR$/atribuirResultadosNormal/atribuirResultados.php" />
+        <option value="$PROJECT_DIR$/3menuTorneio/roundRobin.php" />
+        <option value="$PROJECT_DIR$/4calendarioTorneioAdmin/calendarioTorneioAdmin.php" />
+        <option value="$PROJECT_DIR$/4calendarioTorneioAdmin/action.php" />
+        <option value="$PROJECT_DIR$/atribuirResultadosNormal/action.php" />
+        <option value="$PROJECT_DIR$/3menuTorneio/menuTorneio.php" />
+        <option value="$PROJECT_DIR$/3resultadosConflituosos/resultadosConflituosos.php" />
+        <option value="$PROJECT_DIR$/3resultadosConflituosos/action.php" />
+        <option value="$PROJECT_DIR$/atribuirResultadosAdmin/action.php" />
+        <option value="$PROJECT_DIR$/1todosTorneiosOffline/action.php" />
+        <option value="$PROJECT_DIR$/tabelaClassificaçaoOfline/tabelaClassificaçao.php" />
+        <option value="$PROJECT_DIR$/4calendarioTorneioOfline/calendarioTorneio.php" />
+        <option value="$PROJECT_DIR$/torneioOpcoesOfline/torneioOpcoes.php" />
+        <option value="$PROJECT_DIR$/torneioOpcoesOfline/torneioOpcoes.html" />
+        <option value="$PROJECT_DIR$/torneioOpcoesOfline/torneioOpcoes.css" />
+        <option value="$PROJECT_DIR$/1consultarInstrucoes/consultarInstrucoes.php" />
+        <option value="$PROJECT_DIR$/1inscreverParticipar/inscreverParticipar.php" />
+        <option value="$PROJECT_DIR$/1todosTorneiosOffline/todosTorneiosOffline.php" />
+        <option value="$PROJECT_DIR$/1todosTorneiosOffline/todosTorneiosOffline.css" />
+        <option value="$PROJECT_DIR$/tabelaClassificaçaoOfline/tabelaClassificaçao.css" />
+        <option value="$PROJECT_DIR$/expulsarJogador/expulsarJogador.css" />
+        <option value="$PROJECT_DIR$/expulsarJogador/expulsarJogador.php" />
+        <option value="$PROJECT_DIR$/4calendarioTorneio/action.php" />
+        <option value="$PROJECT_DIR$/4calendarioTorneio/calendarioTorneio.php" />
+        <option value="$PROJECT_DIR$/torneioOpcoes/torneioOpcoes.php" />
+        <option value="$PROJECT_DIR$/3minhasEquipas/minhasEquipas.php" />
+        <option value="$PROJECT_DIR$/3minhasEquipas/action.php" />
+        <option value="$PROJECT_DIR$/3selecionarTorneio/action.php" />
+        <option value="$PROJECT_DIR$/4torneiosCriarEquipa/action.php" />
+        <option value="$PROJECT_DIR$/2normaInicio/normaInicio.php" />
+        <option value="$PROJECT_DIR$/3criarEquipa/criarEquipa.php" />
+        <option value="$PROJECT_DIR$/3equipasSubstitutos/equipasSubstitutos.php" />
+        <option value="$PROJECT_DIR$/3financas/financas.php" />
+        <option value="$PROJECT_DIR$/3garantirSubstitutos/garantirSubstitutos.php" />
+        <option value="$PROJECT_DIR$/3menuTorneioInfo/menuTorneio.php" />
+        <option value="$PROJECT_DIR$/3pedirSubstituicao/pedirSubstituicao.php" />
+        <option value="$PROJECT_DIR$/3selecionarTorneioInfo/3selecionarTorneioInfo.php" />
+        <option value="$PROJECT_DIR$/4posicoesJoga/posicoesJoga.php" />
+        <option value="$PROJECT_DIR$/4posicoesJogaCriar/posicoesJogaCriar.php" />
+        <option value="$PROJECT_DIR$/4quatroButoes/quatroButoes.php" />
+        <option value="$PROJECT_DIR$/fazerSubstituicao/fazerSubstituicao.php" />
+        <option value="$PROJECT_DIR$/fazerSubstituicao2/fazerSubstituicao.php" />
+        <option value="$PROJECT_DIR$/notificacoes/notificacoes.php" />
+        <option value="$PROJECT_DIR$/tabelaClassificaçao/tabelaClassificaçao.php" />
+        <option value="$PROJECT_DIR$/tabelaClassificaçaoInfo/tabelaClassificaçaoInfo.php" />
+        <option value="$PROJECT_DIR$/expulsarJogador2/action.php" />
+        <option value="$PROJECT_DIR$/3selecionarTorneio/selecionarTorneio.php" />
+        <option value="$PROJECT_DIR$/4posicoesJogaCriar/action.php" />
+        <option value="$PROJECT_DIR$/3selecionarEquipaInscrever/selecionarEquipaInscrever.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectId" id="1Thk6sV8RSfQWdrtp2fbVdlQ6ev" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projetoBD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetoBD" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\untitled" />
+      <recent name="C:\Users\Diogo Boinas\WebstormProjects\untitled\paginaInicial" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\projetoBD" />
+      <recent name="C:\xampp\htdocs\projetoBD\4calendarioTorneioAdmin" />
+      <recent name="C:\xampp\htdocs\projetoBD\4posicoesJoga" />
+      <recent name="C:\xampp\htdocs\projetoBD\3selecionarEquipaInscrever" />
+      <recent name="C:\xampp\htdocs\projetoBD\3selecionarTorneio" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3af58d40-713d-4cb1-a7ef-6276fa594c3e" name="Default Changelist" comment="" />
+      <created>1573919542700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573919542700</updated>
+      <workItem from="1573919546821" duration="14648000" />
+      <workItem from="1574022758595" duration="11785000" />
+      <workItem from="1574188904932" duration="9472000" />
+      <workItem from="1574260248742" duration="8939000" />
+      <workItem from="1574289106175" duration="4455000" />
+      <workItem from="1574522324859" duration="12229000" />
+      <workItem from="1574560352204" duration="1291000" />
+      <workItem from="1574609687272" duration="8376000" />
+      <workItem from="1574721659082" duration="6219000" />
+      <workItem from="1574768074221" duration="36065000" />
+      <workItem from="1574833490157" duration="1835000" />
+      <workItem from="1574881426091" duration="7340000" />
+      <workItem from="1574893315239" duration="4229000" />
+      <workItem from="1574952700003" duration="6045000" />
+      <workItem from="1574972928713" duration="2494000" />
+      <workItem from="1574981089103" duration="18582000" />
+      <workItem from="1575009272298" duration="1760000" />
+      <workItem from="1575044989631" duration="42429000" />
+      <workItem from="1575136435770" duration="125000" />
+      <workItem from="1575136893727" duration="59000" />
+      <workItem from="1575136984250" duration="156000" />
+      <workItem from="1575138094413" duration="2000" />
+      <workItem from="1575139593966" duration="156000" />
+      <workItem from="1575140865531" duration="2517000" />
+      <workItem from="1575151751359" duration="2860000" />
+      <workItem from="1575155341398" duration="3000" />
+      <workItem from="1575156447085" duration="587000" />
+      <workItem from="1575157490472" duration="283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69519000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24832214" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5013423" side_tool="true" weight="0.17847025" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" sideWeight="0.4986577" visible="true" weight="0.31586403" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19932885" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5013423" side_tool="true" visible="true" weight="0.17847025" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" sideWeight="0.4986577" visible="true" weight="0.17847025" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/3criarTorneio/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4calendarioTorneio/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3selecionarEquipaInscrever/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="37" column="104" selection-start-line="37" selection-start-column="91" selection-end-line="37" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4torneiosCriarEquipa/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0paginaInicial/paginaInicial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3minhasEquipas/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3selecionarTorneio/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="36" column="13" selection-start-line="34" selection-start-column="12" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2adminInicio/adminInicio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2meusTorneios/meusTorneios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2normaInicio/normaInicio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3criarEquipa/criarEquipa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3criarTorneio/criarTorneio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3equipasSubstitutos/equipasSubstitutos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3garantirSubstitutos/garantirSubstitutos.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3financas/financas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3garantirSubstitutos/user.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3garantirSubstitutos/garantirSubstitutos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3menuTorneio/menuTorneio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3menuTorneioInfo/menuTorneio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3minhasEquipas/minhasEquipas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1089">
+          <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3pedirSubstituicao/pedirSubstituicao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3proximosJogos/proximosJogos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3resultadosConflituosos/resultadosConflituosos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3tornarAdmin/tornarAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3selecionarTorneioInfo/user.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3selecionarTorneioInfo/action.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3selecionarTorneioInfo/3selecionarTorneioInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4calendarioTorneio/calendarioTorneio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4calendarioTorneioAdmin/calendarioTorneioAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4calendarioTorneioOfline/calendarioTorneio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="58" column="3" lean-forward="true" selection-start-line="58" selection-start-column="3" selection-end-line="60" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4quatroButoes/quatroButoes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4torneiosCriarEquipa/torneiosCriarEquipa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atribuirResultadosAdmin/atribuirResultados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atribuirResultadosNormal/atribuirResultados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="21" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expulsarJogador3/expulsarJogador3.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expulsarJogador2/expulsarJogador2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fazerSubstituicao/fazerSubstituicao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="53" selection-start-line="48" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fazerSubstituicao2/fazerSubstituicao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notificacoes/notificacoes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabelaClassificaçao/tabelaClassificaçao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabelaClassificaçaoInfo/tabelaClassificaçaoInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabelaClassificaçaoOfline/tabelaClassificaçao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3247">
+          <caret line="191" column="24" selection-start-line="191" selection-start-column="24" selection-end-line="191" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torneioOpcoes/torneioOpcoes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expulsarJogador/expulsarJogador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expulsarJogador2/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3selecionarTorneio/selecionarTorneio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4posicoesJogaCriar/posicoesJogaCriar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="36" column="10" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4posicoesJogaCriar/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="257" column="64" selection-start-line="257" selection-start-column="64" selection-end-line="257" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4posicoesJoga/posicoesJoga.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4posicoesJoga/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="266" column="20" lean-forward="true" selection-start-line="266" selection-start-column="20" selection-end-line="266" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3selecionarEquipaInscrever/selecionarEquipaInscrever.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="58" column="35" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

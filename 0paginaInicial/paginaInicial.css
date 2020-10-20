@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #e2ddeb;
+}
+
+.header{
+    height: 120px;
+    width: 100vw;
+    background-color: #54c242;
+}
+.headerText{
+    position: relative;
+    color:white;
+    font-family: Helvetica;
+    font-weight: bolder;
+    font-size: 40px;
+    padding: 35px;
+}
+
+.middleRect{
+    background-color: white;
+    height: 100%;
+    width:20px;
+    margin-left: 50%;
+    margin-top: -115px;
+}
+
+.middleCircle:after{
+    content: ' \25CF';
+    font-size: 100px;
+    color: white;
+    margin-left: -20px;
+}
+
+.bodyContainer{
+    margin-left: 55vw;
+    margin-top: 5%;
+}
+
+.bodyText{
+    font-family: Garamond;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.buttonLogin{
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 20px 80px;
+    border: 5px solid #000000;
+    border-radius: 9px;
+    background: #54c242;
+    text-shadow: #000000 1px 1px 1px;
+    font: normal normal bold 20px arial;
+    color: #ffffff;
+    text-decoration: none;
+    position: absolute;
+    top: 300px;
+}
+.buttonLogin:hover,
+.buttonLogin:active,
+.buttonLogin:focus {
+    color: #000000;
+    text-decoration: none;
+}
+
+.buttonRegister{
+     display: inline-block;
+     text-align: center;
+     vertical-align: middle;
+     padding: 20px 80px;
+     border: 5px solid #000000;
+     border-radius: 9px;
+     background: #54c242;
+     text-shadow: #000000 1px 1px 1px;
+     font: normal normal bold 20px arial;
+     color: #ffffff;
+     text-decoration: none;
+     position: absolute;
+     top: 400px;
+ }
+.buttonRegister:hover,
+.buttonRegister:active,
+.buttonRegister:focus {
+    color: #000000;
+    text-decoration: none;
+}
+
+.buttonInstructions{
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 20px 80px;
+    border: 5px solid #000000;
+    border-radius: 9px;
+    background: #54c242;
+    text-shadow: #000000 1px 1px 1px;
+    font: normal normal bold 20px arial;
+    color: #ffffff;
+    text-decoration: none;
+    position: absolute;
+    top: 500px;
+}
+.buttonInstructions:hover,
+.buttonInstructions:active,
+.buttonInstructions:focus {
+    color: #000000;
+    text-decoration: none;
+}
+
+
+.playerImg{
+    margin-left: 7%;
+    margin-top: -5%;
+    width: 400px;
+    height: 400px;
+}

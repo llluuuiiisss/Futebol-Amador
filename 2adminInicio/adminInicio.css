@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #e2ddeb;
+}
+
+.header{
+    height: 120px;
+    width: 100vw;
+    background-color: #54c242;
+}
+.headerText{
+    position: relative;
+    color:white;
+    font-family: Helvetica;
+    font-weight: bolder;
+    font-size: 40px;
+    padding: 35px;
+}
+
+.middleRect{
+    background-color: white;
+    height: 100%;
+    width:20px;
+    margin-left: 50%;
+    margin-top: -115px;
+}
+
+.middleCircle:after{
+    content: ' \25CF';
+    font-size: 100px;
+    color: white;
+    margin-left: -20px;
+}
+
+.bodyContainer{
+    margin-top: 5%;
+}
+
+.bodyText{
+    font-family: Garamond;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.playerImg{
+    margin-left: 2%;
+    margin-bottom: 30px;
+    width: 40px;
+    height: 40px;
+}
+
+#navigation {
+    width: 250px;
+    font-family: Arial;
+    font-size: 20px;
+    font-weigth: bold;
+    margin-top: 20px;
+}
+
+#navigation li, #button {
+    border-bottom: 30px solid #e2ddeb;
+}
+#navigation li a:link, #navigation li a:visited{
+    display: block;
+    padding: 5px 5px 5px 0.5em;
+    background-color: #ededed;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+#navigation li a:hover {
+    background-color: dodgerblue;
+    color: lime;
+}
+
+.line{
+    margin-left: 250px;
+    border-left: 2px solid black;
+    height: 82vh;
+    margin-top: -492px;
+}
+
+.bodyContainer{
+    padding: 0;
+    margin-top: -81vh;
+    margin-left: 250px;
+}
+
+.title{
+    margin-left: 20vw;
+    font-family: "Arial Black";
+    font-size: 40px;
+}
+.adminImg{
+    height: 400px;
+    width: 400px;
+    margin-left: 24vw;
+}
